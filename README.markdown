@@ -1,6 +1,5 @@
-# THIS PROJECT IS NOT MAINTAINED
-
 # Doctrine 2 REST Server and Client
+## Revival of doctrine/rest
 
 The Doctrine 2 REST server and client component is both an easy way to spin up 
 REST services for your Doctrine 2 entities as well as a way to work with REST 

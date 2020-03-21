@@ -1,15 +1,16 @@
 {
     "name": "doctrine/rest",
     "description": "Doctrine 2 REST Server and Client",
-    "homepage": "https://github.com/doctrine/rest",
+    "homepage": "https://github.com/cconard96/RestfulEntities",
     "type": "library",
     "keywords": ["database", "rest"],
     "license": "MIT",
     "authors": [
+        {"name": "Curtis Conard", "email": "cconard96@gmail.com"},
         {"name": "Jonathan Wage", "email": "jonwage@gmail.com"}
     ],
     "require": {
-        "php": ">=5.3.2",
+        "php": ">=7.3",
         "doctrine/common": "*"
     },
     "require-dev": {
